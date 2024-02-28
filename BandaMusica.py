@@ -6,3 +6,6 @@ class Musica:
 
     def afinar_instrumento(self):
         self.instrumento.afinar()
+        
+    def tocar_instrumento(self):
+        self.instrumento.tocar()
